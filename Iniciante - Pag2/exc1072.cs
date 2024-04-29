@@ -12,5 +12,4 @@ internal class beecrowd
         Console.WriteLine($"{aux1} in");
         Console.WriteLine($"{aux2} out");
     }
-
 }
